@@ -10,4 +10,14 @@ h2 {
     color:purple
 }
 
+h2 p { 
+    color: orange;
+}
 
+li {
+    color: rgb(21, 21, 168)
+}
+
+p {
+    background-color: yellow;
+}
