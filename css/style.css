@@ -3,16 +3,16 @@ body {
 }
 
 h1 {
-    color:#9b59b6
+    color:#9b59b6;
 }
 
-h2 {
-    color:purple
+h1:hover{
+    color: blue;
 }
 
-/* h2 { 
+h2 { 
     color: orange;
-} */
+}
 
 li {
     color: rgb(21, 21, 168)
@@ -53,4 +53,17 @@ div p {
 
 input:checked {
     margin-left: 50px;
+}
+
+label {
+    text-transform: uppercase;
+}
+
+#special::first-letter {
+    color: green;
+    font-size: 100;
+}
+
+a:visited {
+    color: gray;
 }
