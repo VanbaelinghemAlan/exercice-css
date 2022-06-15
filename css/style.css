@@ -21,3 +21,16 @@ li {
 p {
     background-color: yellow;
 }
+
+input {
+    border: red 3px solid;
+}
+
+.hello {
+    background-color: white;
+    
+}
+
+#special {
+    border: blue 2px solid
+}
